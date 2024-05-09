@@ -1,0 +1,18 @@
+.cvDoc {
+    width: 70vw;
+    border: 2px solid black;
+    padding: 5px;
+    margin: 0 auto;
+    height: 95vh;
+    overflow: scroll;
+}
+header h1 {
+    text-align: center;
+    color: #333;
+    font-size: 32px;
+}
+img {
+    width: 200px;
+    height: auto;
+    float: right;
+}
